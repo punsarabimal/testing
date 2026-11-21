@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Tally</string>
+    <string name="version_badge_format">v%1$s</string>
+    <string name="counter_label_hint">Label (e.g. Laps, Items, Score)</string>
+    <string name="counter_label_clear">Clear label</string>
+    <string name="counter_label_icon_desc">Counter label</string>
+    <string name="active_step_badge">Step +%1$d</string>
+    <string name="step_selector_title">Step Increment</string>
+    <string name="step_chip_format">+%1$d</string>
+    <string name="increment_button_format">+%1$d</string>
+    <string name="increment_button_desc">Increment counter by %1$d</string>
+    <string name="decrement_button_format">-%1$d</string>
+    <string name="decrement_button_desc">Decrement counter by %1$d</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="reset_button_desc">Reset counter to zero and clear session log</string>
+    <string name="recent_history_title">Recent Activity</string>
+    <string name="history_count_format">%1$d/%2$d</string>
+    <string name="clear_history_label">Clear</string>
+    <string name="clear_history_desc">Clear session history</string>
+    <string name="empty_history_title">No activity yet</string>
+    <string name="empty_history_subtitle">Tap + or - to start tracking this session.</string>
+    <string name="log_increment_format">+%1$d -> %2$d</string>
+    <string name="log_decrement_format">-%1$d -> %2$d</string>
+    <string name="log_reset_text">Reset to 0</string>
+    <string name="session_taps_format">%1$d actions</string>
+    <string name="session_tap_single">1 action</string>
+    <string name="app_logo_desc">Quick Tally emblem</string>
+    <string name="history_increment_desc">Increment action</string>
+    <string name="history_decrement_desc">Decrement action</string>
+    <string name="history_reset_desc">Reset action</string>
+</resources>

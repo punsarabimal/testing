@@ -1,0 +1,6 @@
+{
+  "name": "Quick Tally",
+  "description": "A fast, minimalist digital tally counter and click tracker in Obsidian Dark Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
