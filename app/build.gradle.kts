@@ -22,6 +22,8 @@ android {
     //   for new features, new screens, or functional enhancements.
     // - Increment PATCH (third digit, e.g., 1.0.0 -> 1.0.1)
     //   for bug fixes, typo corrections, minor styling tweaks, or performance patches.
+    // - Also update README.md on every future update to keep the version badge, key features,
+    //   and Changelog section synchronized with versionName and the latest changes.
     versionCode = 1
     versionName = "1.0.0"
 
